@@ -67,7 +67,5 @@ public class UserList {
 //        for (int i=1; i<getUsersList().size(); i+=3) {
 //           getUsersList().indexOf(i);
 //        }
-
-//        return birthDate;
     }
 }
